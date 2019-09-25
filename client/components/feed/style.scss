@@ -1,0 +1,51 @@
+.description {
+    height: 250px;
+    overflow: hidden;
+}
+
+.deletePost {
+    color: #d9534f;
+}
+
+.imageProp {
+    width: 264px;
+    height: 232px;
+}
+
+.paragraph {
+    white-space: pre-wrap;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 100%, 0);
+    }
+
+    to {
+        opacity: 1;
+        transform: none;
+    }
+}
+
+.fadeInUp {
+    animation-name: fadeInUp;
+    -webkit-animation-duration: 2s; /* Safari 4.0 - 8.0 */
+    animation-duration: 2s;
+}
+
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+
+    to {
+      opacity: 1;
+    }
+  }
+
+  .fadeIn {
+    animation-name: fadeIn;
+    -webkit-animation-duration: 0.8s; /* Safari 4.0 - 8.0 */
+    animation-duration: 0.8s;
+}
