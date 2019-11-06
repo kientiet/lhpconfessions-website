@@ -101,7 +101,7 @@
     "lodash": "^4.16.4",
     "moment": "^2.18.1",
     "moment-timezone": "^0.5.13",
-    "mongoose": "^4.11.11",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.18.3",
     "normalize.css": "^5.0.0",
     "npm-install-webpack-plugin": "^4.0.5",
