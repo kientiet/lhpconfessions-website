@@ -98,7 +98,7 @@
     "jquery": "^3.2.1",
     "json-loader": "^0.5.7",
     "jsonwebtoken": "^8.1.0",
-    "lodash": "^4.16.4",
+    "lodash": "^4.17.21",
     "moment": "^2.18.1",
     "moment-timezone": "^0.5.13",
     "mongoose": "^4.11.11",
